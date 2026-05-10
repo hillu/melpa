@@ -1,0 +1,4 @@
+(vql-mode
+ :fetcher codeberg
+ :repo "hillu/vql-mode.el"
+ :files ("vql-mode.el"))
